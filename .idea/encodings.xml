@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/testcases/index_manage/test_index.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testcases/runner.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testcases/runner.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testcases/user_manage/test_login.py" charset="UTF-8" />
+  </component>
+</project>

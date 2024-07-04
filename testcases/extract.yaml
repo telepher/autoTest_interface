@@ -1,0 +1,22 @@
+dataPath: D:\Desktop\backp\project\autoTest\autoTest_interface\datas.xls
+paramsList:
+- application: web
+  application_client_type: pc
+- application: app
+  application_client_type: h5
+- application: app
+  application_client_type: ios
+- application: app
+  application_client_type: android
+- application: app
+  application_client_type: weixin
+- application: app
+  application_client_type: alipay
+- application: app
+  application_client_type: baidu
+- application: app
+  application_client_type: toutiao
+- application: app
+  application_client_type: qq
+token: d941bbff41aedf69e6691404a08b2e5a
+token: 13bef2271d5a31f23f71ec384b27b272

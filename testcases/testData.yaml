@@ -1,0 +1,25 @@
+datas:
+- 用例编号: 1
+  所属模块: 登录
+  标题: 正常登录
+  优先级境:
+  测试环境: api/user/login
+  请求方式: POST
+  前提条件:
+  输入数据:
+     accounts: pytest
+     pwd: pytest
+     type: username
+  需要存储的数据: token
+- 用例编号: 2
+  所属模块: 登录
+  标题: 正常登录
+  优先级境:
+  测试环境: api/user/login
+  请求方式: POST
+  前提条件:
+  输入数据:
+     accounts: pytest
+     pwd: pytest
+     type: username
+  需要存储的数据: token
